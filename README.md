@@ -9,17 +9,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kristianl%C3%B6vey/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat&logo=linkedin&logoColor=E5E7EB" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat&logo=linkedin&logoColor=E5E7EB)](https://www.linkedin.com/in/kristianl%C3%B6vey/)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=flat&logo=instagram&logoColor=E5E7EB)](https://www.instagram.com/kristian.lovey/)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=E5E7EB)](mailto:kristian.lovey@fer.unizg.hr)
 
-<a href="https://www.instagram.com/kristian.lovey/">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=flat&logo=instagram&logoColor=E5E7EB" />
-</a>
-
-<a href="mailto:ki@tamaralovey.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=E5E7EB" />
-</a>
 
 </div>
 
