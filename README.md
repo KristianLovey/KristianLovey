@@ -34,7 +34,7 @@ Off-hours: powerlifting | side quest: freelance fitness coach
 
 ---
 
-## Toolbox (by domain)
+## Toolbox 
 
 **Languages**
 
@@ -70,16 +70,16 @@ Off-hours: powerlifting | side quest: freelance fitness coach
 ## What I like building
 
 * ML: data prep → training → evaluation → iteration
-* Classification/regression models + honest baselines (so “improvement” means something)
+* Classification/regression models
 * Data processing and visualization in **R**
-* Azure-based environments when a project outgrows “just local”
+* Azure-based environments
 
 ---
 
 ## Outside the keyboard
 
 * **Powerlifting** (heavy barbell, light excuses)
-* Freelance **fitness coaching** (programming, tracking, progression)ž
+* Freelance **fitness coaching** (programming, tracking, progression)
 * Skiing
 
 ---
