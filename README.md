@@ -87,13 +87,10 @@ Off-hours: powerlifting | side quest: freelance fitness coach
 ## GitHub metrics
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=KristianLovey&show_icons=true&hide_border=true&bg_color=0b1220&title_color=E5E7EB&text_color=E5E7EB&icon_color=E5E7EB" />
-<img height="150" src="https://streak-stats.demolab.com?user=KristianLovey&hide_border=true&background=0b1220&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=KristianLovey&show_icons=true&hide_border=true&bg_color=0b1220&title_color=E5E7EB&text_color=E5E7EB&icon_color=E5E7EB"/>
 
 
 
 </div>
 
----
-```
+
