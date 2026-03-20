@@ -1,96 +1,73 @@
-
-<!-- =======================
-   Kristian Lövey — Profile
-   ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:111827&height=110&section=header&text=Kristian%20L%C3%B6vey&fontSize=42&fontColor=E5E7EB&desc=Zagreb%20%E2%80%A2%20FER%20%E2%80%A2%20Junior%20Tech%20Consultant%20%40%20Nephos&descAlignY=75&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:111827&height=110&section=header&text=Kristian%20L%C3%B6vey&fontSize=42&fontColor=E5E7EB&desc=Zagreb%20•%20Junior%20Tech%20Consultant%20@%20Nephos%20•%20FER%20Student&descAlignY=75&descSize=16" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat&logo=linkedin&logoColor=E5E7EB)](https://www.linkedin.com/in/kristianl%C3%B6vey/)
-[![Instagram](https://img.shields.io/badge/Instagram-111827?style=flat&logo=instagram&logoColor=E5E7EB)](https://www.instagram.com/kristian.lovey/)
-[![Email](https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=E5E7EB)](mailto:kristian.lovey@fer.unizg.hr)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristianlovey/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kristian.lovey)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ki@tamaralovey.com)
 
 </div>
 
-<br>
+---
 
-```text
-Kristian Lövey (22) — Zagreb
-Computer Engineering student @ FER (BSc in Computing completed)
-Junior Tech Consultant @ Nephos
-Uni projects: AI / ML / DL, neural networks, data science
-Off-hours: powerlifting | side quest: freelance fitness coach
-````
+### 👋 Hi, I'm Kristian!
 
-## Current focus
+I am a **Computer Engineering Master's student** at the Faculty of Electrical Engineering and Computing (FER) in Zagreb. I am currently working as a **Junior Technical Consultant @ Nephos**, specializing in **Azure** and **Agentic AI**. My passion lies at the intersection of **Software Engineering**, **Cloud Solutions**, and **Machine Learning**.
 
-* University work: **AI / ML / DS** projects, modeling, evaluation, data work
-* Cloud exposure: Azure, delivery/automation through consulting work
-* Engineering mindset: baseline → iterate → measure what you claim
+### Current Projects & Work
+
+* **Junior Tech Consultant @ Nephos:** Implementing Azure cloud solutions and exploring the frontiers of Agentic AI.
+*  **LiftAI:** Leading the development of an intelligent workout system using **Next.js**, **TypeScript**, and **Tailwind CSS**. Focused on bridging the gap between anatomical data and training.
+* **PoppyTimer:** A cozy productivity dashboard featuring a Pomodoro timer, session tracking, and a rich notes editor. Built with **Next.js 14**, **Tailwind**, and **Supabase (RLS)**.
+* **LWLUP — Platforma za Powerlifting klub:** Full-stack web aplikacija za powerlifting klub LWL UP. Sustav omogućuje vođenje treninga, praćenje natjecanja i administraciju tima uz podršku za uloge trenera i sportaša (izgrađeno s **Next.js 14**, **Supabase** i **TypeScript**).
 
 ---
 
-## Toolbox 
+### Technical Stack
 
-**Languages**
-
-* ![C](https://img.shields.io/badge/C-0b1220?style=for-the-badge\&logo=c\&logoColor=E5E7EB)
-* ![Java](https://img.shields.io/badge/Java-0b1220?style=for-the-badge\&logo=openjdk\&logoColor=E5E7EB)
-* ![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge\&logo=python\&logoColor=E5E7EB)
-* ![R](https://img.shields.io/badge/R-0b1220?style=for-the-badge\&logo=r\&logoColor=E5E7EB)
-
-**AI / Data**
-
-* ![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=E5E7EB)
-* ![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=E5E7EB)
-* ![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge\&logo=scikitlearn\&logoColor=E5E7EB)
-* ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge\&logo=pytorch\&logoColor=E5E7EB)
-* ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge\&logo=tensorflow\&logoColor=E5E7EB)
-
-**Cloud**
-
-* ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0b1220?style=for-the-badge\&logo=microsoftazure\&logoColor=E5E7EB)
-
-**Web (basics)**
-
-* ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=E5E7EB)
-* ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=E5E7EB)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=E5E7EB)
-
-**Embedded (basics)**
-
-* ![ARM](https://img.shields.io/badge/ARM-0b1220?style=for-the-badge\&logo=arm\&logoColor=E5E7EB)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & AI** | **Azure**, Agentic AI, PyTorch (LSTM), TensorFlow, scikit-learn |
+| **Languages** | Python, Java, $C/C++$, JavaScript, TypeScript, HTML/CSS, R, Bash |
+| **Web Dev** | React, **Next.js 14**, .NET Core, TailwindCSS, **Supabase**, PostgreSQL |
+| **Embedded** | ESP32, Arduino, TI mmWave Sensors (IWR6843AOPEVM) |
+| **Misc** | GitHub Actions, Unity, Framer Motion, Windows Terminal |
 
 ---
 
-## What I like building
+### Repository Highlights
 
-* ML: data prep → training → evaluation → iteration
-* Classification/regression models
-* Data processing and visualization in **R**
-* Azure-based environments
-
----
-
-## Outside the keyboard
-
-* **Powerlifting** (heavy barbell, light excuses)
-* Freelance **fitness coaching** (programming, tracking, progression)
-* Skiing
+* **Diplomski-projekt:** Continuation of research on human activity recognition using mmWave radar sensors.
+*  **ML-Projekt-Vicuna:** Predictive model using historical data to forecast future values (Stock/Returns) for Vicuna d.o.o.
+*  **eZgrada:** Full-stack residential management web app (React, .NET Core, PostgreSQL).
+*  **NM_GeneriranjePjesma:** Python-based project for automated song generation.
+*  **statisticko-analizirani:** SAP project focusing on statistical data analysis.
 
 ---
 
-## GitHub metrics
+###  Beyond the Code
+My background in sports and coaching has shaped my **perseverance** and **team-oriented** mindset.
+* 🏋️ **Powerlifting**  | ⛷️ **Skiing** | 🌍 **Traveling** 
+
+---
+
+###  GitHub Statistics
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=KristianLovey&show_icons=true&hide_border=true&bg_color=0b1220&title_color=E5E7EB&text_color=E5E7EB&icon_color=E5E7EB"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=KristianLovey&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLovey&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=KristianLovey&theme=dracula&hide_border=false" width="100%" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="45%" />
 
 
-
-</div>
 
 
